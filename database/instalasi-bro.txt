@@ -1,0 +1,4 @@
+Melalui Localhost :
+1. Buat database kp_bukulapak.
+2. Tinggal import "kp_bukulapak.sql" ke database lewat phpmyadmin.
+3. Ubah konfigurasi "functions/database_functions.php"

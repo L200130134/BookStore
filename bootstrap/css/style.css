@@ -1,0 +1,34 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#main > :first-child{
+	margin-top: 30px;
+}
+
+.booklist img {
+  max-width:200px;
+  height:auto;
+  margin-bottom:30px;
+}
+
+.detailbuku img {
+  max-width:230px;
+  height:auto;
+}
+
+.deskripsibuku {
+	margin-left: -15px;
+}
+
+.footer-custom {
+	margin-top: 90px;
+}
+
+.loginadmin form {
+	margin-top: 40px;
+}
+.jumbotron {
+	height: 800px;
+}
