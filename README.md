@@ -1,23 +1,16 @@
----
-Lecturer: Bana Handaga
-Courses: Sistem Informasi Terdistribusi
-Class: A
----
-
 Android RestFul API
 =========
 
-Simple project android webservices with rest architecture (RestFul API).
+Simple website for book store (created in 2017).
 
 Screenshots
 -----------
 
 Click image to view.
 
-### RecyclerView
+### Home
 
-[![main refresh](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_main-refresh.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-refresh.png)
-[![main error](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_main-error.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-error.png)
+[![main refresh](https://github.com/L200130134/BookStore/raw/main/screenshots/Home.png)](https://github.com/L200130134/BookStore/raw/main/screenshots/Home.png)
 
 ### Simple Output
 
